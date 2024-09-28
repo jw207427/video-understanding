@@ -1,2 +1,7 @@
 decord==0.6.0
 einops==0.8.0
+sentencepiece==0.2.0
+accelerate==0.34.2
+timm==1.0.9
+boto3
+git+https://github.com/huggingface/transformers@21fac7abba2a37fae86106f87fcf9974fd1e3830
